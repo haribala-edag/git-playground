@@ -1,4 +1,4 @@
-## Interactive rebase
+## How to squash with interactive rebase
 
 i. `git rebase -i HEAD~2` => 2 means 2 commits back
 ii. Press 'i' to make changes.
